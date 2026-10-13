@@ -1,0 +1,15 @@
+names:
+- Paper
+- Rock
+- Scissors
+nc: 3
+roboflow:
+  license: Private
+  project: rock-paper-scissors-sxsw
+  url: https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/1
+  version: 1
+  workspace: roboflow-58fyf
+test: C:/Project_Comvis/rock-paper-scissors-1/test/images
+train: C:/Project_Comvis/rock-paper-scissors-1/train/images
+val: C:/Project_Comvis/rock-paper-scissors-1/valid/images
+path: C:/Project_Comvis/rock-paper-scissors-1
